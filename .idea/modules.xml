@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OneFilers.iml" filepath="$PROJECT_DIR$/.idea/modules/OneFilers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OneFilers_main.iml" filepath="$PROJECT_DIR$/.idea/modules/OneFilers_main.iml" group="OneFilers" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OneFilers_test.iml" filepath="$PROJECT_DIR$/.idea/modules/OneFilers_test.iml" group="OneFilers" />
+    </modules>
+  </component>
+</project>
